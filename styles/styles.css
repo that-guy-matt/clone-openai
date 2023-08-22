@@ -1,0 +1,26 @@
+/* css default styles reset */
+* {
+    margin: 0;
+    padding: 0;
+    font-size: 1em;
+    font-family: inherit;
+    box-sizing: border-box;
+}
+
+/* Table of contents
+ * 1. Base rules
+ * 2. Layout rules
+ * 3. Module rules
+ * 4. State rules
+ * 5. Theme rules
+ */
+
+/* ====== Base rules ====== */
+
+/* ====== Layout rules ====== */
+
+/* ====== Module rules ====== */
+
+/* ====== State rules ====== */
+
+/* ====== Theme rules ====== */
