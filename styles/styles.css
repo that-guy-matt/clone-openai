@@ -17,9 +17,24 @@
 
 /* ====== Base rules ====== */
 
+
+
 /* ====== Layout rules ====== */
 
+#top-bar {
+    display: flex;
+    flex-direction: col;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    min-height: 50px;
+}
+
 /* ====== Module rules ====== */
+
+#top-bar {
+    background-color: black;
+    color: white;
+}
 
 /* ====== State rules ====== */
 
