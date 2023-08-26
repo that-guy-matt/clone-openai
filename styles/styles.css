@@ -41,10 +41,17 @@ ul, ol {
 .flex-container {
     display: flex;
     flex-direction: row;
+    flex-wrap: nowrap;
     justify-content: space-between;
 }
 
 /* ====== Module rules ====== */
+
+#top-bar {
+    background-color: black;
+    color: white;
+    min-height: 50px;
+}
 
 /* ====== State rules ====== */
 
