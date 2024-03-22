@@ -34,6 +34,11 @@ ul, ol {
 
 /* ====== Layout rules ====== */
 
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
 .flex-container {
     display: flex;
     flex-direction: row;
